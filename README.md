@@ -85,11 +85,56 @@ The dashboard provides comprehensive insights into resident care metrics across 
 Interactive filters allow users to drill down into specific metrics and compare performance across different time periods and care homes.
 
 
-## Solution Approach
-- Exploratory Data Analysis (EDA) to understand the patterns and relationships within the dataset.
-- Statistical analysis to identify correlations between staffing levels, resident care metrics, and financial performance.
-- Development of predictive models using machine learning techniques to forecast staffing needs and predict resident care outcomes.
-- Optimization algorithms to find the optimal staffing levels that balance resident care quality with cost efficiency.
+## Findings
+1. Staffing Levels:
 
-## Conclusion
-By solving this problem, the care home can make data-driven decisions to allocate staffing resources more effectively, leading to improved resident care quality, enhanced staff satisfaction, and better financial outcomes.
+Average Staffing Levels: Morning shifts tend to have the highest average number of caregivers, while night shifts have the lowest.
+Staffing Correlations: Higher staffing levels (caregivers and nurses) are positively correlated with higher satisfaction scores and fewer severe incidents.
+2. Resident Care:
+
+Incident Distribution: Falls are the most common incident type, followed by medication errors and altercations. Incidents classified as 'High' severity are less frequent but have a significant impact on resident satisfaction.
+Outcome Analysis: Resolved incidents have a higher average satisfaction score compared to pending incidents.
+3. Financial Performance:
+
+Expense Distribution: Staffing constitutes the highest proportion of expenses, followed by supplies and utilities.
+Cost Efficiency: Higher expenses on staffing are associated with better care outcomes, suggesting a potential trade-off between cost and quality.
+
+
+## Recommendations
+1. Optimize Staffing Levels:
+
+Morning Shifts: Maintain current staffing levels as they correlate with higher satisfaction scores.
+Night Shifts: Consider increasing the number of caregivers and support staff during night shifts to reduce the severity and frequency of incidents.
+Data-Driven Scheduling: Use predictive models to forecast staffing needs based on resident population and their care requirements.
+2. Improve Resident Care:
+
+Incident Prevention: Implement targeted interventions to reduce the occurrence of falls and medication errors, such as fall prevention programs and enhanced medication management systems.
+Feedback Mechanisms: Continuously collect and analyze resident feedback to identify and resolve issues promptly, aiming to increase the resolution rate of incidents.
+3. Financial Management:
+
+Expense Monitoring: Regularly review and optimize expenses, particularly in staffing and supplies, to ensure cost efficiency without compromising care quality.
+Resource Allocation: Invest in training and development programs for caregivers and nurses to enhance their skills and improve care outcomes.
+
+
+## Actionable Steps
+1. Implement Predictive Staffing Models:
+
+Use machine learning algorithms to analyze historical data and predict future staffing needs.
+Adjust staffing schedules based on predictive insights to ensure optimal caregiver and nurse availability.
+2. Enhance Incident Reporting and Management:
+
+Develop a comprehensive incident reporting system that captures detailed information on each incident.
+Train staff on effective incident management practices to ensure timely and efficient resolution of incidents.
+3. Conduct Regular Financial Reviews:
+
+Set up monthly financial review meetings to analyze expense reports and identify areas for cost savings.
+Utilize financial dashboards in Power BI to track and visualize expense trends and budget adherence.
+4. Launch Care Improvement Programs:
+
+Introduce regular training sessions on fall prevention and medication management for all staff.
+Establish a resident feedback loop to gather insights and make data-driven improvements to care processes.
+5. Monitor and Evaluate Performance:
+
+Use Power BI dashboards to monitor key performance indicators (KPIs) related to staffing, resident care, and financial performance.
+Continuously evaluate the impact of implemented changes and adjust strategies accordingly to achieve desired outcomes.
+
