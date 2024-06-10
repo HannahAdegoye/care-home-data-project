@@ -78,7 +78,7 @@ Duplicate record check
 Missing value assessment
 
 ## Visualization
-![Power BI Dashboard](Assets/image/dashboard.png)
+![Power BI Dashboard](main/Assets/image/dashboard.png)
 
 # Results
 The dashboard provides comprehensive insights into resident care metrics across all care homes.
