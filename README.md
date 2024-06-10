@@ -78,8 +78,10 @@ Duplicate record check
 Missing value assessment
 
 ## Visualization
-!
-Results
+![Power BI Dashboard](assets/image/Powerbi_dashboard.png)
+
+
+# Results
 The dashboard provides comprehensive insights into resident care metrics across all care homes.
 Interactive filters allow users to drill down into specific metrics and compare performance across different time periods and care homes.
 
