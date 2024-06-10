@@ -5,10 +5,10 @@ As the Head of Care Home Operations, I need a data analytics solution that provi
 
 ## Data Source
 What data is needed to achieve our objective?
-We require comprehensive data on resident care metrics, including hygiene status, food and fluid intake, incident reports, staffing levels, and resource usage.
+We require comprehensive data on resident care metrics, including hygiene status, food and fluid intake, incident reports, staffing levels, and resource usage. 
 
 ## Where is the data coming from?
-The data is sourced from internal records and documentation across 4000 care homes in the United Kingdom.
+The data is sourced from internal records and documentation across 4000 care homes in the United Kingdom available at www.kaggle/carehomedata
 
 ## Objective
 What is the key pain point?
@@ -137,4 +137,6 @@ Establish a resident feedback loop to gather insights and make data-driven impro
 
 Use Power BI dashboards to monitor key performance indicators (KPIs) related to staffing, resident care, and financial performance.
 Continuously evaluate the impact of implemented changes and adjust strategies accordingly to achieve desired outcomes.
+
+
 
