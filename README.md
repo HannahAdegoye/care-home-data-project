@@ -78,7 +78,7 @@ Duplicate record check
 Missing value assessment
 
 ## Visualization
-![Power BI Dashboard](assets/image/Powerbi_dashboard)
+![Power BI Dashboard](assets/image/Powerbi_dashboard.png)
 
 
 # Results
