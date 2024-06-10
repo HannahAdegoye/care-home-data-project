@@ -8,7 +8,7 @@ What data is needed to achieve our objective?
 We require comprehensive data on resident care metrics, including hygiene status, food and fluid intake, incident reports, staffing levels, and resource usage. 
 
 ## Where is the data coming from?
-The data is sourced from internal records and documentation across 4000 care homes in the United Kingdom available here[(https://www.kaggle.com/datasets/dalvinderruchika00020/carehome-data-2024-unitedkingdom?resource=download)]
+The data is sourced from internal records and documentation across 4000 care homes in the United Kingdom available here https://www.kaggle.com/datasets/dalvinderruchika00020/carehome-data-2024-unitedkingdom?resource=download
 
 ## Objective
 What is the key pain point?
